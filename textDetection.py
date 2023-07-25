@@ -27,3 +27,5 @@ for b in boxes.splitlines():
 cv2.imshow('Result', img)
 # transfer()
 cv2.waitKey(0)
+
+# might add more
